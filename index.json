@@ -1,0 +1,100 @@
+{
+    "list": [
+        {
+            "type": 1,
+            "msg": "注册赠送58元，首次存款10元送20元.",
+            "content": [
+                {
+                    "image": "https://picsum.photos/1000",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
+                    "web": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "content": [
+                {
+                    "text": "线路一（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": ""
+                },
+                {
+                    "text": "线路二（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": ""
+                },
+                {
+                    "text": "线路三（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": ""
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zhifubao.png",
+                    "text": "快速充值",
+                    "web": "",
+                    "color": "56ABE4"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/weixin.png",
+                    "text": "快速充值",
+                    "web": "",
+                    "color": "73E235"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "",
+                    "color": "7B86E4"
+                }
+            ]
+        },
+        {
+            "tyep": 4,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shishifanshui.png",
+                    "text": "自助反水1",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huodongdating.png",
+                    "text": "自助反水2",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/money.png",
+                    "text": "自助反水3",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/vip.png",
+                    "text": "自助反水4",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zaixiankefu.png",
+                    "text": "自助反水5",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huiyaunzhuche.png",
+                    "text": "自助反水6",
+                    "web": ""
+                }
+            ]
+        }
+    ]
+}
