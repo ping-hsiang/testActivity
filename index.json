@@ -2,10 +2,34 @@
     "list": [
         {
             "type": 1,
-            "msg": "注册赠送58元，首次存款10元送20元.",
+            "msg": "測試測試！注册赠送58元，首次存款10元送20元.",
             "content": [
                 {
                     "image": "https://picsum.photos/1000",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
                     "web": "https://www.google.com/"
                 },
                 {
