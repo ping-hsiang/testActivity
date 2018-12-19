@@ -35,6 +35,11 @@
                     "text": "线路（注册送58,请走这边）",
                     "bnt": "进入游戏",
                     "web": ""
+                },
+                {
+                    "text": "线路（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": ""
                 }
             ]
         },
@@ -52,6 +57,18 @@
                     "text": "快速充值",
                     "web": "",
                     "color": "73E235"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "",
+                    "color": "7B86E4"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "",
+                    "color": "7B86E4"
                 },
                 {
                     "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
@@ -87,6 +104,11 @@
                 {
                     "image": "http://104.199.204.78/KZINGBaccarat/images/zaixiankefu.png",
                     "text": "自助反水5",
+                    "web": ""
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huiyaunzhuche.png",
+                    "text": "自助反水6",
                     "web": ""
                 },
                 {
