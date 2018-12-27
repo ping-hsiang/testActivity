@@ -1,0 +1,167 @@
+{
+    "title":"近期活动",
+    "list": [
+        {
+            "type": 1,
+            "msg": "注册赠送58元，首次存款10元送20元.",
+            "content": [
+                {
+                    "image": "https://picsum.photos/1000",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
+                    "web": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "content": [
+                {
+                    "text": "线路一（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "text": "线路二（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "text": "线路三（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zhifubao.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "56ABE4"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/weixin.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "73E235"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "7B86E4"
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shishifanshui.png",
+                    "text": "自助反水1",
+                    "web": "https://www.yahoo.com"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huodongdating.png",
+                    "text": "自助反水2",
+                    "web": "https://www.yahoo.com"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/money.png",
+                    "text": "自助反水3",
+                    "web": "https://www.yahoo.com"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/vip.png",
+                    "text": "自助反水4",
+                    "web": "https://www.yahoo.com"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zaixiankefu.png",
+                    "text": "自助反水5",
+                    "web": "https://www.yahoo.com"
+                },
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huiyaunzhuche.png",
+                    "text": "自助反水6",
+                    "web": "https://www.yahoo.com"
+                }
+            ]
+        },
+        {
+            "type": 5,
+            "content": [
+                
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/b61658d5c3d49b8.jpg",
+                    "text": "抑郁焦虑失眠等情绪管理，大型免费公益活动，有问题问专家",
+                    "web": "https://www.douban.com/event/31447279/"
+                },
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/e40802f45260d38.jpg",
+                    "text": "Ulike新一季读书课 为何非《小妇人》莫属？",
+                    "web": "https://www.douban.com/event/31225501/"
+                },
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/8d2a342b9300f79.jpg",
+                    "text": "坐标东直门，攻克英语口语",
+                    "web": "https://www.douban.com/event/30215459/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/raw/public/0f09762bc48eaa4.jpg",
+                    "text": "下班来聚聚，和老外一起说英语！",
+                    "web": "https://www.douban.com/event/31133750/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/d8b71753f4ad3e4.jpg",
+                    "text": "开讲啦！歪果仁教你“如何用地道英语口语去表达？",
+                    "web": "https://www.douban.com/event/30680590/"
+                },
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/e516d202539cd9b.jpg",
+                    "text": "互联网电商（b2b+b2c）资本与项目对接与分享",
+                    "web": "https://www.douban.com/event/31477671/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/15d4c9e44887823.jpg",
+                    "text": "老外独家讲解“英语口语速成方法",
+                    "web": "https://www.douban.com/event/30680066/"
+                },
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/c683bb764056e1a.jpg",
+                    "text": "「慢半拍」跑步&网球互助社团纳新了~跑向美好，网罗快乐！",
+                    "web": "https://www.douban.com/event/31572165/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/b56240d339e4e93.jpg",
+                    "text": "我们的目标：像老外一样说英语!",
+                    "web": "https://www.douban.com/event/31438582/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/270157c90852d36.jpg",
+                    "text": "帝都女神打造计划—— 带你玩转化妆&服装搭配",
+                    "web": "https://www.douban.com/event/31392492/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/5c597f6fec465e2.jpg",
+                    "text": "铲屎官修炼营 第二期 ——科猫咪喂养全攻略，疾病预防大于治疗",
+                    "web": "https://www.douban.com/event/31648076/"
+                },
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/f52594f6e5aaa9b.jpg",
+                    "text": "Solaris社会生活与自我成长阅读沙龙",
+                    "web": "https://www.douban.com/event/31137434/"
+                }
+            ]
+        }
+    ]
+}
